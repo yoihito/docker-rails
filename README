@@ -1,0 +1,5 @@
+Docker file for rails build on top of ruby image 
+
+copy file to dir
+run 
+$ docker build -t yoihito/rails .
